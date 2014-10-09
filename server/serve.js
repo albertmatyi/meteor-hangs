@@ -1,4 +1,4 @@
-/*global Meteor, Npm, WebApp, console, process*/
+/*global Meteor, WebApp, console, process*/
 'use strict';
 var idx = 0;
 var send = Meteor.npmRequire('send');
