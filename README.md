@@ -16,6 +16,7 @@ This small application that shows a possible bug/issue with `meteor/WebApp/send`
 1. Open up the Inspector and disable the cache
     ![Disable cache](http://i.imgur.com/NuATTPq.png)
 1. Refresh the page ~1400 times (may vary) - Simply keep your finger on the refesh button
+     The console will show how many time the resource was requested and served
 1. **Result:** Meteor hangs and will not serve any other client
 
 
