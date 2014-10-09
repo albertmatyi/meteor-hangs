@@ -1,0 +1,49 @@
+{
+  "dependencies": {
+    "send": {
+      "version": "0.9.3",
+      "dependencies": {
+        "debug": {
+          "version": "2.0.0"
+        },
+        "depd": {
+          "version": "0.4.5"
+        },
+        "destroy": {
+          "version": "1.0.3"
+        },
+        "escape-html": {
+          "version": "1.0.1"
+        },
+        "etag": {
+          "version": "1.4.0",
+          "dependencies": {
+            "crc": {
+              "version": "3.0.0"
+            }
+          }
+        },
+        "fresh": {
+          "version": "0.2.4"
+        },
+        "mime": {
+          "version": "1.2.11"
+        },
+        "ms": {
+          "version": "0.6.2"
+        },
+        "on-finished": {
+          "version": "2.1.0",
+          "dependencies": {
+            "ee-first": {
+              "version": "1.0.5"
+            }
+          }
+        },
+        "range-parser": {
+          "version": "1.0.2"
+        }
+      }
+    }
+  }
+}
