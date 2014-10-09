@@ -40,7 +40,7 @@ The issue doesn't manifest itself.
 
 Any ideas?
 
-## Relevant (and only) code
+## Relevant (and only) code in `/server/serve.js`
 
 		var idx = 0;
 		var send = Meteor.npmRequire('send');
