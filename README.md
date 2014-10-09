@@ -12,7 +12,7 @@ This small application that shows a possible bug/issue with `meteor/WebApp/send`
 1. Run the server
         `meteor`
 1. Open up chrome and navigate to
-        `http://localhost:3000/penken.jpg`
+        `http://localhost:3000/uploads/penken.jpg`
 1. Open up the Inspector and disable the cache
     ![Disable cache](http://i.imgur.com/NuATTPq.png)
 1. Refresh the page ~1400 times (may vary) - Simply keep your finger on the refesh button
