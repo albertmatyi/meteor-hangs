@@ -6,7 +6,7 @@ This small application that shows a possible bug/issue with `meteor/WebApp/send`
 ## To try it out
 
 1. Clone the project
-        `git clone git@github.com:albertmatyi/meteor-hangs.git`
+        `git clone https://github.com/albertmatyi/meteor-hangs.git`
 1. Enter its folder
         `cd meteor-hangs`
 1. Run the server
